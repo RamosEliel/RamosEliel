@@ -49,14 +49,14 @@ I am a Systems Engineering student in my fourth year. I am expanding my knowledg
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.x.com/@eliel_berrio">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
 </a>
 <a href="elielberrio777@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=ElielDavid25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ElielDavid25)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ElielDavid25&theme=material-palenight)](https://github.com/ElielDavid25)
+[![](https://github-readme-stats.vercel.app/api?username=RamosEliel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/RamosEliel)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=RamosEliel&theme=material-palenight)](https://github.com/RamosEliel)
 </div>
