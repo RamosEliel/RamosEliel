@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Eliel David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <!--  -->
-<img align="right" width=290px alt="Unicorn" margin-left="5px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
+<img align="right" width=290px alt="Unicorn" margin-left="5px" src="https://media1.tenor.com/m/S2T9kF1ytPMAAAAC/thumbs-up-okay.gif"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
