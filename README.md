@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Systems Engineering student in my fourth year. I am expanding my knowledge in back-end development and data analytics, and I am open to new paths in computer science. I am a productive, proactive and persistent person.
+I'm a Systems Engineering student in my fourth year. I am expanding my knowledge in back-end development and data analytics, and I am open to new paths in computer science. I am a productive, proactive and persistent person.
 - 🌱 I’m currently learning ...
   - Django
   - Django Rest Framework
